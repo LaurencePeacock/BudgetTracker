@@ -1,0 +1,7 @@
+.add-expense-link-group{
+    display: flex;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    justify-content: space-between;
+    max-width: 50vw;
+}
